@@ -6,15 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Sampling and Empirical Distributions'
 prev_page:
-  url: /chapters/09/5/Finding_Probabilities
+  url: /chapters/09/5/Finding_Probabilities.html
   title: 'Finding Probabilities'
 next_page:
-  url: /chapters/10/1/Empirical_Distributions
+  url: /chapters/10/1/Empirical_Distributions.html
   title: 'Empirical Distributions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

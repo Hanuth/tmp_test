@@ -6,15 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Estimation'
 prev_page:
-  url: /chapters/12/3/Causality
+  url: /chapters/12/3/Causality.html
   title: 'Causality'
 next_page:
-  url: /chapters/13/1/Percentiles
+  url: /chapters/13/1/Percentiles.html
   title: 'Percentiles'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'A/B Testing'
 prev_page:
-  url: /chapters/12/Comparing_Two_Samples
+  url: /chapters/12/Comparing_Two_Samples.html
   title: 'Comparing Two Samples'
 next_page:
-  url: /chapters/12/2/Deflategate
+  url: /chapters/12/2/Deflategate.html
   title: 'Deflategate'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

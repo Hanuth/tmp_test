@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Monty Hall Problem'
 prev_page:
-  url: /chapters/09/3/Simulation
+  url: /chapters/09/3/Simulation.html
   title: 'Simulation'
 next_page:
-  url: /chapters/09/5/Finding_Probabilities
+  url: /chapters/09/5/Finding_Probabilities.html
   title: 'Finding Probabilities'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

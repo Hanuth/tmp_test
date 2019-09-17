@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Another Kind of Character'
 prev_page:
-  url: /chapters/01/3/1/Literary_Characters
+  url: /chapters/01/3/1/Literary_Characters.html
   title: 'Literary Characters'
 next_page:
-  url: /chapters/02/causality-and-experiments
+  url: /chapters/02/causality-and-experiments.html
   title: 'Causality and Experiments'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

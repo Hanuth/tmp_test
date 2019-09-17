@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Method of Least Squares'
 prev_page:
-  url: /chapters/15/2/Regression_Line
+  url: /chapters/15/2/Regression_Line.html
   title: 'The Regression Line'
 next_page:
-  url: /chapters/15/4/Least_Squares_Regression
+  url: /chapters/15/4/Least_Squares_Regression.html
   title: 'Least Squares Regression'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

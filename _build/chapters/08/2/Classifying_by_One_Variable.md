@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Classifying by One Variable'
 prev_page:
-  url: /chapters/08/1/Applying_a_Function_to_a_Column
+  url: /chapters/08/1/Applying_a_Function_to_a_Column.html
   title: 'Applying Functions to Columns'
 next_page:
-  url: /chapters/08/3/Cross-Classifying_by_More_than_One_Variable
+  url: /chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html
   title: 'Cross-Classifying'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

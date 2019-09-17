@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Ranges'
 prev_page:
-  url: /chapters/05/1/Arrays
+  url: /chapters/05/1/Arrays.html
   title: 'Arrays'
 next_page:
-  url: /chapters/05/3/More_on_Arrays
+  url: /chapters/05/3/More_on_Arrays.html
   title: 'More on Arrays'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

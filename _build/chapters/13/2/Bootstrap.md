@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Bootstrap'
 prev_page:
-  url: /chapters/13/1/Percentiles
+  url: /chapters/13/1/Percentiles.html
   title: 'Percentiles'
 next_page:
-  url: /chapters/13/3/Confidence_Intervals
+  url: /chapters/13/3/Confidence_Intervals.html
   title: 'Confidence Intervals'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

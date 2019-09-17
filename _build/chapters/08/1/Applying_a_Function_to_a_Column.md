@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Applying Functions to Columns'
 prev_page:
-  url: /chapters/08/Functions_and_Tables
+  url: /chapters/08/Functions_and_Tables.html
   title: 'Functions and Tables'
 next_page:
-  url: /chapters/08/2/Classifying_by_One_Variable
+  url: /chapters/08/2/Classifying_by_One_Variable.html
   title: 'Classifying by One Variable'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

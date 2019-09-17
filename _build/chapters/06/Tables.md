@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Tables'
 prev_page:
-  url: /chapters/05/3/More_on_Arrays
+  url: /chapters/05/3/More_on_Arrays.html
   title: 'More on Arrays'
 next_page:
-  url: /chapters/06/1/Sorting_Rows
+  url: /chapters/06/1/Sorting_Rows.html
   title: 'Sorting Rows'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 
@@ -65,7 +63,7 @@ Table()
 <table border="1" class="dataframe">
     <thead>
         <tr>
-            
+
         </tr>
     </thead>
     <tbody>

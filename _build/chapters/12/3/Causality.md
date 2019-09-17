@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Causality'
 prev_page:
-  url: /chapters/12/2/Deflategate
+  url: /chapters/12/2/Deflategate.html
   title: 'Deflategate'
 next_page:
-  url: /chapters/13/Estimation
+  url: /chapters/13/Estimation.html
   title: 'Estimation'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

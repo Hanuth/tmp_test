@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Rows of Tables'
 prev_page:
-  url: /chapters/17/2/Training_and_Testing
+  url: /chapters/17/2/Training_and_Testing.html
   title: 'Training and Testing'
 next_page:
-  url: /chapters/17/4/Implementing_the_Classifier
+  url: /chapters/17/4/Implementing_the_Classifier.html
   title: 'Implementing the Classifier'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

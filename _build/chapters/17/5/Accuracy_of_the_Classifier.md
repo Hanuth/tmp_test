@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Accuracy of the Classifier'
 prev_page:
-  url: /chapters/17/4/Implementing_the_Classifier
+  url: /chapters/17/4/Implementing_the_Classifier.html
   title: 'Implementing the Classifier'
 next_page:
-  url: /chapters/17/6/Multiple_Regression
+  url: /chapters/17/6/Multiple_Regression.html
   title: 'Multiple Regression'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

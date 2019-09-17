@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Regression Line'
 prev_page:
-  url: /chapters/15/1/Correlation
+  url: /chapters/15/1/Correlation.html
   title: 'Correlation'
 next_page:
-  url: /chapters/15/3/Method_of_Least_Squares
+  url: /chapters/15/3/Method_of_Least_Squares.html
   title: 'The Method of Least Squares'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

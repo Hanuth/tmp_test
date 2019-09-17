@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Implementing the Classifier'
 prev_page:
-  url: /chapters/17/3/Rows_of_Tables
+  url: /chapters/17/3/Rows_of_Tables.html
   title: 'Rows of Tables'
 next_page:
-  url: /chapters/17/5/Accuracy_of_the_Classifier
+  url: /chapters/17/5/Accuracy_of_the_Classifier.html
   title: 'The Accuracy of the Classifier'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

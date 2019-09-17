@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Selecting Rows'
 prev_page:
-  url: /chapters/06/1/Sorting_Rows
+  url: /chapters/06/1/Sorting_Rows.html
   title: 'Sorting Rows'
 next_page:
-  url: /chapters/06/3/Example_Trends_in_the_Population_of_the_United_States
+  url: /chapters/06/3/Example_Trends_in_the_Population_of_the_United_States.html
   title: 'Example: Population Trends'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Randomness'
 prev_page:
-  url: /chapters/08/5/Bike_Sharing_in_the_Bay_Area
+  url: /chapters/08/5/Bike_Sharing_in_the_Bay_Area.html
   title: 'Bike Sharing in the Bay Area'
 next_page:
-  url: /chapters/09/1/Conditional_Statements
+  url: /chapters/09/1/Conditional_Statements.html
   title: 'Conditional Statements'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

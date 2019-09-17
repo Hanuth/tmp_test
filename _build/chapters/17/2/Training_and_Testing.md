@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Training and Testing'
 prev_page:
-  url: /chapters/17/1/Nearest_Neighbors
+  url: /chapters/17/1/Nearest_Neighbors.html
   title: 'Nearest Neighbors'
 next_page:
-  url: /chapters/17/3/Rows_of_Tables
+  url: /chapters/17/3/Rows_of_Tables.html
   title: 'Rows of Tables'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

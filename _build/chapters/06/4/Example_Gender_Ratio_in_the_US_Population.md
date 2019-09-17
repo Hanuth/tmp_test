@@ -6,15 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Example: Trends in Gender'
 prev_page:
-  url: /chapters/06/3/Example_Trends_in_the_Population_of_the_United_States
+  url: /chapters/06/3/Example_Trends_in_the_Population_of_the_United_States.html
   title: 'Example: Population Trends'
 next_page:
-  url: /chapters/07/Visualization
+  url: /chapters/07/Visualization.html
   title: 'Visualization'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 

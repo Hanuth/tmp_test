@@ -6,15 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Prediction'
 prev_page:
-  url: /chapters/14/6/Choosing_a_Sample_Size
+  url: /chapters/14/6/Choosing_a_Sample_Size.html
   title: 'Choosing a Sample Size'
 next_page:
-  url: /chapters/15/1/Correlation
+  url: /chapters/15/1/Correlation.html
   title: 'Correlation'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
 <div markdown="1" class="cell code_cell">
 
 
